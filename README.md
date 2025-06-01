@@ -1,6 +1,6 @@
 # Neural Network from Scratch with NumPy
 
-A minimal two‑layer neural network implementation in pure NumPy—no TensorFlow or PyTorch—trained on the MNIST digit‑recognizer dataset.
+A minimal two‑layer neural network implementation in pure NumPy (no TensorFlow or PyTorch) trained on the MNIST digit‑recognizer dataset.
 This repository demonstrates how to build, train, and evaluate a simple two‑layer feedforward neural network from scratch using only NumPy. You will see how to:
 - Load and preprocess the MNIST “Digit Recognizer” dataset.
 - Initialize weights and biases with Xavier (Glorot) initialization.
