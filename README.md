@@ -20,4 +20,4 @@ No high‑level ML frameworks (TensorFlow, Keras, PyTorch) are used—only NumPy
 <img src="./READMEPNGs/Building_NN_from_scratch (2)-5.png" width="800" style="display:block; margin:0; padding:0;"/>
 </p>
 
-[![Made a short video walking through the entire build from data preprocessing and weight initialization to forward & backward propagation and training:](https://img.youtube.com/vi/SXjqiuK8Lfk/maxresdefault.jpg)](https://youtu.be/86yTVMzVe4g)
+[![Made a short video walking through the entire build from data preprocessing and weight initialization to forward & backward propagation and training:](https://img.youtube.com/vi/86yTVMzVe4g/maxresdefault.jpg)](https://youtu.be/86yTVMzVe4g)
